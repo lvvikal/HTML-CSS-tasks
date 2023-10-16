@@ -829,3 +829,11 @@ a { text-decoration: none;}
 .footer_a{
    color: #F6F6F6;;
 }
+
+
+@media(max-width: 400px){
+    .header{
+        background: #000;
+        display: none
+    }
+}
